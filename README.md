@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ayman</h1>
 <h3 align="center">A passionate information security and digital forensics</h3>
+<br>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
+<br>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-ayman-elshazly-4b303b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ayman-elshazly-4b303b203/" height="30" width="40" /></a>
