@@ -9,7 +9,7 @@
         <p>Loading</p>
     </div>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/m0hamed__ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0hamed__ayman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-ayman-elshazly-4b303b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ayman-elshazly-4b303b203/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012710940984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012710940984" height="30" width="40" /></a>
