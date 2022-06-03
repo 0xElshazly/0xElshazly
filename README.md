@@ -20,7 +20,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedaymansaid&show_icons=true&locale=en&layout=compact&theme=radical" alt="mohamedaymansaid" /></p>
 
-<table align='center' border='5px'>
+<table align='center' >
 	<tr>
 		<td>
 			<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedaymansaid&show_icons=true&locale=en&theme=radical" alt="mohamedaymansaid" /></p>
