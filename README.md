@@ -13,7 +13,7 @@
 <a href="https://twitter.com/m0hamed__ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m0hamed__ayman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-ayman-elshazly-4b303b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-ayman-elshazly-4b303b203/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100012710940984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100012710940984" height="30" width="40" /></a>
-	<a href="https://fb.com/profile.php?id=100012710940984](https://www.credly.com/users/mohamed-ayman-said-elshazly" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77213993/172943604-9ae052f5-0450-41a7-8f60-d5014862dd3e.svg" alt="Credly Account" height="50" width="50" /></a>
+	<a href="https://www.credly.com/users/mohamed-ayman-said-elshazly" target="blank"><img align="center" src="https://user-images.githubusercontent.com/77213993/172943604-9ae052f5-0450-41a7-8f60-d5014862dd3e.svg" alt="Credly Account" height="50" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
